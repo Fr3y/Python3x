@@ -17,3 +17,10 @@ Print(x-2)
 #well it's intresting why one 2 and other 2.0 lol my teachers didn't tell me this Back THen 
 
 but its difference of flot and int
+
+#for reminder use %
+
+#as 10%2 will give you 0
+
+#And For More on this i will Just edit on more operators
+like **, + , - , / , // , % 
