@@ -1,0 +1,30 @@
+well as we have goan so here we have to use python on CMD For That 
+step 1 > open cmd 
+step 2> text "Python" and hit enter.
+step 3> And i'm 90% sure that it will give you an Beautiful Error. as python is not recoginized 
+--------------------------------------------------------------------------------------------------------------------
+so what ?
+--------------------------------------------------------------------------------------------------------------------
+well Nothing we have to just spicifed the path of python 
+
+so there is an comand like 
+
+set path"(your path)"   # but this is an temp way 
+
+well this is a trouble sometimes so here is the wasy (actually i see my one friend having issue on this)
+
+so here it is if you have windows 
+
+1 ) go to my computer
+2> properties
+3> advance system settings
+4> envirinment variables 
+5> system variables > path > here we have to add the python path 
+--------------------------------------------------------------------------------
+well no we have to find python path so here it is 
+1> go to c drive > users > appdata > local > programs > pyhton 
+here we have to take two paths one is of python itself and another is of python script which is in the same folder 
+then so to 5 and add this path there ................
+
+
+close()  And Done xD
